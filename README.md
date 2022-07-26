@@ -4,6 +4,7 @@ Developed an API using pyhton and Django with two GET endpoints. Each endpoint s
 --##----##----##----##----##----##----##--
 
 Python version: 3.10.5
+
 Django version: 4.0.6
 
 --##----##----##----##----##----##----##--
@@ -29,19 +30,33 @@ If you are going to request data from this API using web browser, do not use # i
 If you have problems running the project try building a new project and copy the code in views.py and urls.py for the corresponding python file in the new project.
 
 To build a new project using django and python:
+
 1- Create a directory
+
 2- go to cmd, open the created directory and execute py -m venv ./venv
+
 3- cd .../venv/Scripts
+
 4- ./activate
+
 5- pip install django
+
 6- pip install djangorestframework
+
 7- pip install markdown       
+
 8- pip install django-filter
+
 9- django-admin startproject 'projectName'
+
 10- cd .../'projectName'
+
 11- python manage.py startapp 'appName'
+
 12- in 'appName'.views.py, copy the code in the this project views.py
+
 13- in 'projectName'.urls.py copy the code in the this project urls.py
+
 14- python manage.py runserver
 
 
