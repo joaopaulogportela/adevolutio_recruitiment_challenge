@@ -1,6 +1,11 @@
 # adevolutio_recruitiment_challenge
 Developed an API using pyhton and Django with two GET endpoints. Each endpoint should query data from two JSONs (Orders and Deliveries). The API extracts the JSON content and query data from it.
 
+
+Author: João Paulo Gomes Portela - joaopauloportela@hotmail.com
+
+Date: 25/07/2022
+
 -----------------------------
 
 Python version: 3.10.5
