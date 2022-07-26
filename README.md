@@ -8,9 +8,21 @@ Python version: 3.10.5
 Django version: 4.0.6
 
 --##----##----##----##----##----##----##--
+ CHALLENGE:
+
+We would like to challenge you to develop an API that serves two contexts:
+
+orders and deliveries.
+
+These are the endpoints with examples of JSON payloads you can use.
+They both allow GET requests to fetch the content. 
+
+Orders:https://evolutio.pt/media/challenges/orders.json
+
+Deliveries: https://evolutio.pt/media/challenges/deliveries.json
 
 
-The challenge required an API with two GET endpoits:
+The challenge was to buld an API with two implemented GET endpoits:
 
 1- With order brand_id as a query parameter, return a list of orders and its deliveries; 
 
