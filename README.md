@@ -1,5 +1,6 @@
 # adevolutio_recruitiment_challenge
 Developed an API using pyhton and Django with two GET endpoints. Each endpoint should query data from two JSONs (Orders and Deliveries). The API extracts the JSON content and query data from it.
+
 --##----##----##----##----##----##----##--
 
 Python version: 3.10.5
@@ -22,8 +23,7 @@ If you are going to request data from this API using web browser, do not use # i
 
 
 
---##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##--##----##--##----##--##----##--##----##--
-
+--##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##--##----##--
 
 
 If you have problems running the project try building a new project and copy the code in views.py and urls.py for the corresponding python file in the new project.
@@ -47,4 +47,4 @@ To build a new project using django and python:
 
 In the Django project, the whole code is in views.py and urls.py, there you will find the functions and classes used in the project.
 
---##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##--##----##--##----##--##----##--##----##--
+--##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##----##--##----##--
