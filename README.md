@@ -9,7 +9,11 @@ Django version: 4.0.6
 
 --##----##----##----##----##----##----##--
 
+-----------------------------
+
  CHALLENGE:
+ 
+-----------------------------
  
 
 We would like to challenge you to develop an API that serves two contexts:
