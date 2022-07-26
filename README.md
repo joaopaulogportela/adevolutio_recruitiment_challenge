@@ -13,9 +13,11 @@ Django version: 4.0.6
 The challenge required an API with two GET endpoits:
 
 1- With order brand_id as a query parameter, return a list of orders and its deliveries; 
+
 [SOLUTION] [.../order/?id=x] as request, it will extract the raw data and query with brand_id the required data.
 
 2- With an id or reference of order as a query parameter, return the quantity of each product of that order that has already been shipped. 
+
 [SOLUTION] [.../orders/products/?reference=x] or [.../orders/products/?id=x] as request, it will extract the raw data and query with order reference or order id the required data. 
 
 !! ATTENTION !!
